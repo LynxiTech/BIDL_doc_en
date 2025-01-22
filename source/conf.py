@@ -47,7 +47,7 @@ language = 'en'
 # html_theme = "piccolo_theme"
 html_static_path = ['_static']
 html_permalinks_icon = '<span>#</span>'
-html_theme = 'sphinx-press-theme'
+html_theme = 'press'
 
 html_css_files = [
     'table_word_wrap.css',
