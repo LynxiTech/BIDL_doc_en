@@ -12,6 +12,7 @@ author = 'Lynxi & CNAEIT'
 release = '1.9.0.0'
 
 # -- General configuration ---------------------------------------------------
+
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 source_suffix = {
@@ -46,7 +47,7 @@ language = 'en'
 # html_theme = "piccolo_theme"
 html_static_path = ['_static']
 html_permalinks_icon = '<span>#</span>'
-html_theme = 'sphinx_documatt_theme'
+html_theme = 'sphinx-press-theme'
 
 html_css_files = [
     'table_word_wrap.css',
