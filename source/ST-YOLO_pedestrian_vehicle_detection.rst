@@ -60,7 +60,7 @@ Demonstration
 
 When the GEN1 dataset's test set is input into the aforementioned network, it can output a sequence of target detection frames from the event stream data. The following video is a demonstration example:
 
-.. video:: _static/cann.mp4
+.. video:: _static/styolo.mp4
    :loop:
    :align: center
    :width: 100%
