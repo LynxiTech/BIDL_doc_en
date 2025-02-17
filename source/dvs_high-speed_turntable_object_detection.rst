@@ -8,14 +8,6 @@ This dataset was collected using Lynxi proprietary high-speed moving target data
 
    Figure: High-speed moving target data acquisition device
 
-The following figure demonstrates a visualization of a detection result.
-
-
-.. figure:: _images/高速转盘检测可视化.jpeg
-   :alt: High-speed rotary detection visualization
-
-   Figure: High-speed rotary detection visualization
-
 Network Model
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -26,7 +18,7 @@ Demonstration
 
 The data from the test set is fed into the above network to output a sequence of high-speed turntable event stream data target detection frames. the following video shows a demonstration example:
 
-... video:. _static/turn_table.mp4
+.. video:. _static/turn_table.mp4
    :loop.
    :align. center
    :width. 100%
