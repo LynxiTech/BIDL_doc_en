@@ -15,6 +15,8 @@ release = '1.9.0.0'
 
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
+extensions = ["myst_parser", "sphinxcontrib.video"]
+
 source_suffix = {
     '.rst': 'restructuredtext',
     '.txt': 'restructuredtext',

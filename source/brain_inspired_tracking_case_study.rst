@@ -20,12 +20,11 @@ x represents coordinates on a two-dimensional plane, and \ :math:`V(x,\ t)`\ is 
 
    Figure: Original Dynamic Model of CANN Schematic
 
-.. _fig_Tracking:
-
-.. figure:: _images/基于CANN的对象跟踪实例.png
-   :alt: Example of Object Tracking Based on CANN
-
-   Figure: Example of Object Tracking Based on CANN
+.. video:: _static/cann.mp4
+   :loop:
+   :align: center
+   :width: 100%
+   :caption: Example of Object Tracking Based on CANN
 
 , r(x,t) is the firing rate of the neuron. It is reasonable to assume that \ :math:`r(x,\ t)`\ increases with \ :math:`V(x,\ t)`\, but saturates under global inhibition. Such a model can be represented as:
 
@@ -63,7 +62,7 @@ As shown in :ref:`fig_CANN`, the differential signals of every two adjacent fram
 
 - In the absence of external stimuli, the network can maintain a stationary response bump through recurrent inputs;
 - When an object is present, especially a moving one, the network can smoothly alter its response bump according to the moving target.
-  :ref:`fig_Tracking` shows an example of object tracking based on CANN, where the red bounding box is the gold standard of the object's position, and the yellow bounding box reflects the predicted position based on the response bump.
+  The above video shows an example of object tracking based on CANN, where the red bounding box is the gold standard of the object's position, and the yellow bounding box reflects the predicted position based on the response bump.
 
 Since long-range connections typically have minimal impact on the neuron's membrane potential and firing rate, and for easier digital circuit implementation, 
 [Equation#2] can be expressed with minimal accuracy loss as:
