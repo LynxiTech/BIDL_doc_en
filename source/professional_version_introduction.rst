@@ -1,7 +1,7 @@
-BIDL Commercial Version Introduction
+BIDL Professional Version Introduction
 ====================================================================================
 
-The commercial version of BIDL offers an array of supplementary features and services, which are delineated as follows:
+The professional version of BIDL (also known as LYNBIDL) offers an array of supplementary features and services, which are delineated as follows:
 
 1. Expert Technical Support: dedicated professional team assistance in the accommodation of brain-inspired models to Lynxi chips, facilitating the seamless integration and adaptation of the developed models.
    
@@ -15,7 +15,7 @@ The commercial version of BIDL offers an array of supplementary features and ser
 
 6. Functional-Level Brain-Inspired Networks: the funtional-level brain inspired networks such as memory networks and world model reinforcement learning networks.
 
-Furthermore, Lynxi/Nanhu team extends the following commercial services in the realm of brain-inspired computing:
+Furthermore, Lynxi/Nanhu team extends the following professional services in the realm of brain-inspired computing:
 
 1. Framework Adaptation Services: assistance in the adaptation of other computational frameworks, including but not limited to Spikingjelly and NeurAI.
    

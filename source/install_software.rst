@@ -4,14 +4,14 @@ Software Installation
 Acquiring Software
 --------------------------------------------------------------------------------
 
-Visit the `BIDL open-source page <https://github.com/openBII/BIDL>`__ 
+Visit the `BIDL open-source page <https://github.com/LynxiTech/BIDL>`__ 
 to obtain the source code project.
 
 **Installation Package**
 
-Clone the https://github.com/openBII/BIDL repository to local directory, such as:
+Clone the https://github.com/LynxiTech/BIDL repository to local directory, such as:
   
-  git clone https://github.com/openBII/BIDL.git
+  git clone https://github.com/LynxiTech/BIDL.git
 
 Note that this package only include project source code; 
 for code folder details, refer to :ref:`bidl_folder`.
@@ -104,7 +104,7 @@ Table: BIDL Directory Structure
 |                 |   Intelligence)                                           |
 |                 |                                                           |
 |                 | Among them, functionalBII and onlinelearning are only     |
-|                 | provided in the commercial version.                       |
+|                 | provided in the professional version.                     |
 +-----------------+-----------------------------------------------------------+
 | lynadapter      | Directory for storing Lynxi chip interface files          |
 +-----------------+-----------------------------------------------------------+

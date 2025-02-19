@@ -15,5 +15,5 @@ BIDL User Guide
    Case Study<case_study>
    Neuron Simulation Toolkit<neuron_simulation_toolkit>
    Demonstration Scripts <summary_of_execution_script_for_factory-default_cases>
-   Commercial Version Introduction<commercial_version_introduction>
+   Professional Version Introduction<professional_version_introduction>
    Contact Us<contact_us>
