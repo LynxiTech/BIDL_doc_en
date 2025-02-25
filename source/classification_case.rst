@@ -12,7 +12,8 @@ During both the training and inference processes of the DVS gesture data, a loop
 
 .. figure:: _images/DVS-gesture网络模型.png
    :alt: DVS-gesture Network Model
-
+   :width: 60%
+	
    Figure: DVS-gesture Network Model
 
 This model structure consists of three Conv2dLif modules and two FcLif modules. In the last Fclif module, the output_channel of the Fc layer is 11, which is the number of categories in the DVS gesture model.
@@ -30,6 +31,7 @@ The MNIST-DVS network model consists of three Conv2dLif blocks. Each sample perf
 
 .. figure:: _images/MNIST-DVS网络模型.png
    :alt: MNIST-DVS Network Model
+   :width: 50%
    
    Figure: MNIST-DVS Network Model
 
@@ -44,6 +46,7 @@ CIFAR10-DVS
 
 .. figure:: _images/CIFAR10-DVS网络模型.png
    :alt: CIFAR10-DVS Network Model
+   :width: 50%
 
    Figure: CIFAR10-DVS Network Model
 
@@ -72,6 +75,7 @@ The model used to train the Jester dataset adopts a ResNet18-like structure, as 
 
 .. figure:: _images/训练Jester数据集的模型.png
    :alt: Jester Dataset Training Model
+   :width: 60%
 
    Figure: Jester Dataset Training Model
 
@@ -93,6 +97,7 @@ The IMDB model also performs loop operations over time frames, inputting single-
 
 .. figure:: _images/IMDB网络模型.png
    :alt: IMDB Network Model
+   :width: 50%
 
    Figure: IMDB Network Model
 
@@ -112,6 +117,7 @@ The Luna16Cls classification task network model comprises three Conv2dLif blocks
 
 .. figure:: _images/MNIST-DVS网络模型.png
    :alt: Luna16Cls Network Model
+   :width: 50%
 
    Figure: Luna16Cls Network Model
 
